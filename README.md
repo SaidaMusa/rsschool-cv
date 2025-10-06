@@ -1,3 +1,3 @@
-#CV Deployment
+# rsschool-cv
 
-You can view my CV here : [CV link](https://saidamusa.github.io/rsschool-cv/cv)
+https://SaidaMusa.github.io/rsschool-cv/
